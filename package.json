@@ -1,0 +1,21 @@
+{
+  "name": "lcrstem-home-page",
+  "version": "1.1.4",
+  "description": "LCRstem Home Page",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LCRstem/lcrstem.github.io.git"
+  },
+  "keywords": [
+    "LCRstem",
+    "HomePage"
+  ],
+  "author": "LCRstem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LCRstem/lcrstem.github.io/issues"
+  },
+  "homepage": "https://github.com/LCRstem/lcrstem.github.io#readme"
+}
