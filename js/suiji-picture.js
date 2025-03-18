@@ -18,8 +18,6 @@ var imageUrls = [
     'js/png_files/q.jpg',
     'js/png_files/r.jpg',
     'js/png_files/s.jpg',
-
-  
   ];
   
   var randomIndex = Math.floor(Math.random() * imageUrls.length);
