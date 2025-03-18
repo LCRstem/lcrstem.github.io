@@ -1,6 +1,24 @@
 var imageUrls = [
-    'https://bing.img.run/1920x1080.php',
-    'https://bing.img.run/rand.php',
+    'js/png_files/a.jpg',
+    'js/png_files/b.jpg',
+    'js/png_files/c.jpg',
+    'js/png_files/d.jpg',
+    'js/png_files/e.jpg',
+    'js/png_files/f.jpg',
+    'js/png_files/g.jpg',
+    'js/png_files/h.jpg',
+    'js/png_files/i.jpg',
+    'js/png_files/j.jpg',
+    'js/png_files/k.jpg',
+    'js/png_files/l.jpg',
+    'js/png_files/m.jpg',
+    'js/png_files/n.jpg',
+    'js/png_files/o.jpg',
+    'js/png_files/p.jpg',
+    'js/png_files/q.jpg',
+    'js/png_files/r.jpg',
+    'js/png_files/s.jpg',
+    
   
   ];
   
