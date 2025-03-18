@@ -1,5 +1,6 @@
 var imageUrls = [
     'https://bing.img.run/1920x1080.php',
+    'https://bing.img.run/rand.php',
   
   ];
   
