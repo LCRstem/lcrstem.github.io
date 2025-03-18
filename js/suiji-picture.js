@@ -18,7 +18,7 @@ var imageUrls = [
     'js/png_files/q.jpg',
     'js/png_files/r.jpg',
     'js/png_files/s.jpg',
-    
+
   
   ];
   
